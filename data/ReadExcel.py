@@ -9,6 +9,8 @@ tab2 = pd.read_excel('data/xls.py.xlsx', sheet_name= 1) #Used the same command a
 #use pandas to read file 
 tab1
 tab2 
+
+#Session 2
 import requests #call requests package
 apidataset = 'https://data.cms.gov/data-api/v1/dataset/332846e4-ea55-4641-8307-59ea4e59a5a0/data'
 data = apidataset #Defining variable data
